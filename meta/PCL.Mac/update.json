@@ -4,7 +4,7 @@
         "bundleVersion": 88,
         "summary": "本版本添加了 Modrinth 资源下载和整合包安装功能，并优化了动画效果，调整了部分页面的样式。",
         "updateLog": {
-            "github": "hhttps://github.com/CylorineStudio/PCL.Mac.Refactor/releases/tag/v0.3.0",
+            "github": "https://github.com/CylorineStudio/PCL.Mac.Refactor/releases/tag/v0.3.0",
             "article": "https://cylorine.studio/articles/pcl-mac-refactor-v0.3.0-released"
         },
         "downloads": {
