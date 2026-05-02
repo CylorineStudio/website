@@ -1,0 +1,16 @@
+{
+    "latest": "0.1.1",
+    "versions": [
+        {
+            "id": "0.1.1",
+            "downloadUrl": "https://cylorine.studio/meta/gamestub/versions/0.1.1/GameStub-0.1.1.zip",
+            "size": 51433,
+            "checksums": {
+                "sha1": "ca290d24ac97c37e8358048ecc9c3c10c6dd47cd",
+                "sha256": "28f0582a97354411c5f9e628a0c40f08c564f515d1ad7152ffc585d1e596c933"
+            },
+            "signed": true,
+            "stable": false
+        }
+    ]
+}
