@@ -1,0 +1,8 @@
+{
+    "version": "26.2-snapshot-3",
+    "client": {
+        "sha1": "b2fc8a4c04fc5984fe408aba387e316a8784d79b",
+        "size": 38726312,
+        "url": "https://piston-data.mojang.com/v1/objects/b2fc8a4c04fc5984fe408aba387e316a8784d79b/client.jar"
+    }
+}

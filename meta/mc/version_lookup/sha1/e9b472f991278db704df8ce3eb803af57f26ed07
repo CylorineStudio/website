@@ -1,0 +1,8 @@
+{
+    "version": "1.21.11-pre1",
+    "client": {
+        "sha1": "e9b472f991278db704df8ce3eb803af57f26ed07",
+        "size": 31148308,
+        "url": "https://piston-data.mojang.com/v1/objects/e9b472f991278db704df8ce3eb803af57f26ed07/client.jar"
+    }
+}
