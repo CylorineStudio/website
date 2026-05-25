@@ -1,22 +1,39 @@
 {
     "latestVersion": {
-        "name": "1.0.2",
-        "bundleVersion": 123,
-        "summary": "本版本添加了第三方登录功能与对更多整合包格式的支持，重构了实例管理，并修复了一些问题。",
+        "name": "1.0.3",
+        "bundleVersion": 137,
+        "summary": "本版本添加了语音模组支持和整合包拖拽安装等功能，并修复了一些问题。",
         "updateLogLinks": [
             {
                 "name": "GitHub 页面",
-                "url": "https://github.com/CylorineStudio/PCL.Mac.Refactor/releases/tag/v1.0.2"
+                "url": "https://github.com/CylorineStudio/PCL.Mac.Refactor/releases/tag/v1.0.3"
             }
         ],
         "downloads": {
-            "github": "https://github.com/CylorineStudio/PCL.Mac.Refactor/releases/download/v1.0.2/PCL.Mac-v1.0.2.zip",
-            "mirror": "https://cnb.cool/CylorineStudio/PCL.Mac.Releases/-/releases/download/v1.0.2/PCL.Mac-v1.0.2.zip",
-            "size": 5688883,
-            "sha1": "3f34bf44ea5d529d0250ca51c69e5f10a84e0d26"
+            "github": "https://github.com/CylorineStudio/PCL.Mac.Refactor/releases/download/v1.0.3/PCL.Mac-v1.0.3.zip",
+            "mirror": "https://cnb.cool/CylorineStudio/PCL.Mac.Releases/-/releases/download/v1.0.3/PCL.Mac-v1.0.3.zip",
+            "size": 5737353,
+            "sha1": "f4276cad09d57b85cbb21be9a9d115831e14fed4"
         }
     },
     "versionHistory": [
+        {
+            "name": "1.0.2",
+            "bundleVersion": 123,
+            "summary": "本版本添加了第三方登录功能与对更多整合包格式的支持，重构了实例管理，并修复了一些问题。",
+            "updateLogLinks": [
+                {
+                    "name": "GitHub 页面",
+                    "url": "https://github.com/CylorineStudio/PCL.Mac.Refactor/releases/tag/v1.0.2"
+                }
+            ],
+            "downloads": {
+                "github": "https://github.com/CylorineStudio/PCL.Mac.Refactor/releases/download/v1.0.2/PCL.Mac-v1.0.2.zip",
+                "mirror": "https://cnb.cool/CylorineStudio/PCL.Mac.Releases/-/releases/download/v1.0.2/PCL.Mac-v1.0.2.zip",
+                "size": 5688883,
+                "sha1": "3f34bf44ea5d529d0250ca51c69e5f10a84e0d26"
+            }
+        },
         {
             "name": "1.0.1",
             "bundleVersion": 100,
