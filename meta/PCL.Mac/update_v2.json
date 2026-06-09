@@ -1,0 +1,15 @@
+{
+    "versions": [
+        {
+            "name": "1.0.3",
+            "tag": "v1.0.3",
+            "bundleVersion": 137,
+            "type": "stable",
+            "summary": "本版本添加了语音模组支持和整合包拖拽安装等功能，并修复了一些问题。",
+            "file": {
+                "size": 5737353,
+                "sha1": "f4276cad09d57b85cbb21be9a9d115831e14fed4"
+            }
+        }
+    ]
+}
