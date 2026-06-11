@@ -2,7 +2,7 @@
     "latestVersion": {
         "name": "1.0.4",
         "bundleVersion": 139,
-        "summary": "本版本是一个错误修复版本，修复了 CurseForge 资源下载失败的问题。",
+        "summary": "本版本是一个错误修复版本，修复了 CurseForge 资源无法下载的问题。",
         "updateLogLinks": [
             {
                 "name": "GitHub 页面",
