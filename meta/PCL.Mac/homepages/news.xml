@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<homepage author="Cylorine Studio" description="PCL.Mac 公告">
+    <config
+        stripText="true"
+    />
+
+    <MyHint color="blue">
+        欢迎使用
+    </MyHint>
+    <MyCard title="最新公告"></MyCard>
+</homepage>
