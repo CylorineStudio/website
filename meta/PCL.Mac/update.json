@@ -1,22 +1,39 @@
 {
     "latestVersion": {
-        "name": "1.0.4",
-        "bundleVersion": 139,
-        "summary": "本版本是一个错误修复版本，修复了 CurseForge 资源无法下载的问题。",
+        "name": "1.1.0",
+        "bundleVersion": 155,
+        "summary": "本版本添加了实例资源管理功能与镜像源设置，优化了下载器，并修复了一些问题。\n由于 CurseForge CDN 权限策略变动，旧版本启动器将无法安装 CurseForge 整合包，我们建议所有用户更新到此版本。",
         "updateLogLinks": [
             {
                 "name": "GitHub 页面",
-                "url": "https://github.com/CylorineStudio/PCL.Mac.Refactor/releases/tag/v1.0.4"
+                "url": "https://github.com/CylorineStudio/PCL.Mac.Refactor/releases/tag/v1.1.0"
             }
         ],
         "downloads": {
-            "github": "https://github.com/CylorineStudio/PCL.Mac.Refactor/releases/download/v1.0.4/PCL.Mac-v1.0.4.zip",
-            "mirror": "https://cnb.cool/CylorineStudio/PCL.Mac.Releases/-/releases/download/v1.0.4/PCL.Mac-v1.0.4.zip",
-            "size": 5738294,
-            "sha1": "52dca8a7d530bd55e786ddaa66a2316240c4aa25"
+            "github": "https://github.com/CylorineStudio/PCL.Mac.Refactor/releases/download/v1.1.0/PCL.Mac-v1.1.0.zip",
+            "mirror": "https://cnb.cool/CylorineStudio/PCL.Mac.Releases/-/releases/download/v1.1.0/PCL.Mac-v1.1.0.zip",
+            "size": 6511476,
+            "sha1": "42d837308317e5b921a62f1a4612b4e78a33ef37"
         }
     },
     "versionHistory": [
+        {
+            "name": "1.0.4",
+            "bundleVersion": 139,
+            "summary": "本版本是一个错误修复版本，修复了 CurseForge 资源无法下载的问题。",
+            "updateLogLinks": [
+                {
+                    "name": "GitHub 页面",
+                    "url": "https://github.com/CylorineStudio/PCL.Mac.Refactor/releases/tag/v1.0.4"
+                }
+            ],
+            "downloads": {
+                "github": "https://github.com/CylorineStudio/PCL.Mac.Refactor/releases/download/v1.0.4/PCL.Mac-v1.0.4.zip",
+                "mirror": "https://cnb.cool/CylorineStudio/PCL.Mac.Releases/-/releases/download/v1.0.4/PCL.Mac-v1.0.4.zip",
+                "size": 5738294,
+                "sha1": "52dca8a7d530bd55e786ddaa66a2316240c4aa25"
+            }
+        },
         {
             "name": "1.0.3",
             "bundleVersion": 137,
