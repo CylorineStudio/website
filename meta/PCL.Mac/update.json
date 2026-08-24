@@ -1,22 +1,39 @@
 {
     "latestVersion": {
-        "name": "1.1.0",
-        "bundleVersion": 155,
-        "summary": "本版本添加了实例资源管理功能与镜像源设置，优化了下载器，并修复了一些问题。\n由于 CurseForge CDN 权限策略变动，旧版本启动器将无法安装 CurseForge 整合包，我们建议所有用户更新到此版本。",
+        "name": "1.1.1",
+        "bundleVersion": 173,
+        "summary": "本版本修复了一大堆问题，添加了一些新功能，并优化了用户体验。",
         "updateLogLinks": [
             {
                 "name": "GitHub 页面",
-                "url": "https://github.com/CylorineStudio/PCL.Mac.Refactor/releases/tag/v1.1.0"
+                "url": "https://github.com/CylorineStudio/PCL.Mac.Refactor/releases/tag/v1.1.1"
             }
         ],
         "downloads": {
-            "github": "https://github.com/CylorineStudio/PCL.Mac.Refactor/releases/download/v1.1.0/PCL.Mac-v1.1.0.zip",
-            "mirror": "https://cnb.cool/CylorineStudio/PCL.Mac.Releases/-/releases/download/v1.1.0/PCL.Mac-v1.1.0.zip",
-            "size": 6511476,
-            "sha1": "42d837308317e5b921a62f1a4612b4e78a33ef37"
+            "github": "https://github.com/CylorineStudio/PCL.Mac.Refactor/releases/download/v1.1.1/PCL.Mac-v1.1.1.zip",
+            "mirror": "https://cnb.cool/CylorineStudio/PCL.Mac.Releases/-/releases/download/v1.1.1/PCL.Mac-v1.1.1.zip",
+            "size": 6640765,
+            "sha1": "731a9dfb438c9b14cb092c7f4819834681acc4fb"
         }
     },
     "versionHistory": [
+        {
+            "name": "1.1.0",
+            "bundleVersion": 155,
+            "summary": "本版本添加了实例资源管理功能与镜像源设置，优化了下载器，并修复了一些问题。\n由于 CurseForge CDN 权限策略变动，旧版本启动器将无法安装 CurseForge 整合包，我们建议所有用户更新到此版本。",
+            "updateLogLinks": [
+                {
+                    "name": "GitHub 页面",
+                    "url": "https://github.com/CylorineStudio/PCL.Mac.Refactor/releases/tag/v1.1.0"
+                }
+            ],
+            "downloads": {
+                "github": "https://github.com/CylorineStudio/PCL.Mac.Refactor/releases/download/v1.1.0/PCL.Mac-v1.1.0.zip",
+                "mirror": "https://cnb.cool/CylorineStudio/PCL.Mac.Releases/-/releases/download/v1.1.0/PCL.Mac-v1.1.0.zip",
+                "size": 6511476,
+                "sha1": "42d837308317e5b921a62f1a4612b4e78a33ef37"
+            }
+        },
         {
             "name": "1.0.4",
             "bundleVersion": 139,
